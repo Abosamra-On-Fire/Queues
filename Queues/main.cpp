@@ -128,5 +128,6 @@ int main()
 	// Bedo on the way 
 	cout << "I want to marry her" << endl;
 	cout << "wana kaman";
+	cout << "\nna msh 3aref 7aga 5ales";
 	Ex10();
 }
