@@ -125,6 +125,6 @@ using namespace std;
 int main()
 {
 	// Bedo on the way 
+	cout << "I want to marry her" << endl;
 	Ex10();
 }
-
