@@ -124,7 +124,9 @@ void Ex10()
 using namespace std;
 int main()
 {
+
 	// Bedo on the way 
 	cout << "I want to marry her" << endl;
+	cout << "wana kaman";
 	Ex10();
 }
