@@ -124,6 +124,7 @@ void Ex10()
 using namespace std;
 int main()
 {
+	// Bedo on the way 
 	Ex10();
 }
 
