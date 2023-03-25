@@ -131,6 +131,6 @@ int main()
 	cout << "\nna msh 3aref 7aga 5ales";
 	cout << "\n hallo\n";
 	cout << "\nna msh 3arefny na toht menny";
-	cout << "\n b3d eznk na g3aaaaan 3ayz akol 7ww4yyyy";
+	cout << "\n b3d eznk na g3aaaaan 3ayz akol 7ww4yyyyyy";
 	Ex10();
 }
