@@ -129,6 +129,7 @@ int main()
 	cout << "I want to marry her" << endl;
 	cout << "wana kaman";
 	cout << "\nna msh 3aref 7aga 5ales";
+	cout << "\nna msh 3arefny na toht menny";
 	cout << "\n hallo\n";
 	Ex10();
 }
